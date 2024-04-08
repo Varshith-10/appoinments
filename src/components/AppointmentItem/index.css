@@ -1,0 +1,25 @@
+.listStyle {
+  list-style: none;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.listPa {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.fontTxt {
+  display: flex;
+  flex-direction: column;
+}
+.starImg {
+  height: 30px;
+  width: 30px;
+}
+.btnImgae{
+  background-color: transparent;
+  border-width: 0px;
+}

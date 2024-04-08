@@ -1,0 +1,61 @@
+.container {
+  background-image: linear-gradient(#fbc7d4, #9796f0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container2 {
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
+  width: 80vw;
+}
+.appImg {
+  height: 350px;
+  width: 400px;
+}
+.topOfCont2 {
+  display: flex;
+  justify-content: space-between;
+}
+.formCont {
+  display: flex;
+  flex-direction: column;
+}
+.inpt1 {
+  margin-bottom: 20px;
+  height: 30px;
+  border-style: solid;
+  margin-top: 3px;
+}
+.addBtn {
+  background-color: #8b5cf6;
+  color: white;
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 10px;
+  width: 80px;
+  height: 30px;
+}
+.starBtn {
+  background-color: transparent;
+  border-color: #9897f0;
+  border-radius: 10px;
+  width: 100px;
+  color: #9897f0;
+  border-style: solid;
+  height: 25px;
+  margin-top: 30px;
+}
+.btmContTop {
+  display: flex;
+  justify-content: space-between;
+}
+.appointList {
+  display: flex;
+}
+.btnColor {
+  background-color: #8b5cf6;
+  color: white;
+}
